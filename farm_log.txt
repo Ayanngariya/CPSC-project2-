@@ -1,0 +1,15 @@
+Fed Cow
+Fed Chicken
+Planted Dosa
+Harvested Dosa
+Planted Corn
+Planted Rice
+Planted lintils
+Fed Cow
+Fed Chicken
+Harvested Corn
+Harvested Rice
+Harvested lintils
+Planted Corn for $5
+Planted Corn for $5
+Planted Corn for $5
