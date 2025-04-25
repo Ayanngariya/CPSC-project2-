@@ -13,3 +13,6 @@ Harvested lintils
 Planted Corn for $5
 Planted Corn for $5
 Planted Corn for $5
+Fed Cow
+Fed Chicken
+Fed Duck

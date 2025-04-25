@@ -16,7 +16,7 @@ class Farm:
     def __init__(self, player):
         self.player = player
         self.crops = []
-        self.animals = [Animal("Cow"), Animal("Chicken")]
+        self.animals = [Animal("Cow"), Animal("Chicken"), Animal("Duck")]
 
     def log_action(self, action):
         try:
