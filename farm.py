@@ -29,7 +29,7 @@ class Farm:
         #Asks User the input he wants to put in 
         crop_name = input("Enter the name of the crop you want to plant (like Corn): ")
         if crop_name.strip() != "":
-            #Deducts money on how much the crop costs
+            #Deducts money onhow much the crop costs
             planting_cost = 5
             if self.player.spend_money(planting_cost):
                 crop = Crop(crop_name)
