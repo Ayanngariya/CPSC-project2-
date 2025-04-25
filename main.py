@@ -40,7 +40,7 @@ def main():
             print(f"Thanks for playing, {player.name}! Goodbye.")
             break
         else:
-            print("Invalid choice. Please try agian.")  # intentional small typo
+            print("Invalid choice. Please try agian.")  
 
 if __name__ == "__main__":
     main()
