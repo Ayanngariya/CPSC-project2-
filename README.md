@@ -7,7 +7,7 @@ Farm Adventure is a simple text-based game where you plant crops, feed animals, 
 ## How to Play
 1. Run `main.py`.
 2. Choose actions like Plant, Feed, Harvest, or View your farm.
-3. Try to keep your animals fed and your farm booming!
+3. Try to keep your animals fed and yur farm booming!
 
 ## Files
 - main.py - Runs the game

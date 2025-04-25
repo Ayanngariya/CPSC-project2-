@@ -3,6 +3,11 @@
 # Project: Farm Adventure
 # Date: April 2025
 # GitHub Repo: https://github.com/yourname/FarmAdventure
+#- W3Schools - Python Classes and Objects: https://www.w3schools.com/python/python_classes.asp
+# - GeeksforGeeks - Python User Input and Exception Handling: https://www.geeksforgeeks.org/taking-input-in-python/, https://www.geeksforgeeks.org/python-exceptions/
+# - RealPython - Building Simple Command Line Games: https://realpython.com/python-command-line-games/
+# - https://github.com/Scarlettsang/Simple-Farm-Game
+
 
 from farm import Farm
 from player import Player
