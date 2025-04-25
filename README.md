@@ -16,5 +16,4 @@ Farm Adventure is a simple text-based game where you plant crops, feed animals, 
 - crop.py - Crop class
 - animal.py - Animal class
 
----
-Ayan Ngariya, CPSC 1050 --> -->
+
